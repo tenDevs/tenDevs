@@ -9,5 +9,7 @@
 	- Bootstrap
 	- Android Studio
 	- Firebase
+	- Java
+	- XML
 - Our team
         -
