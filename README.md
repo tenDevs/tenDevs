@@ -1,8 +1,6 @@
 - 👋 Hi, We're @tenDevs
 - Who is tenDevs
-	- 	
-- What we are currently working on
-	- 
+	- 10Devs is a  tech company. Incepted in a classroom by 10 developers (9 gents and 1 lady). Highly skilled personnel, most having substantial work experience in 	   diverse areas of Information Technology and Computer  Science, to make up the team. Our management ensures that each individual excels in their specific 		  assigned tasks by working closely with each other.
 - The technologies we are using
 	- Html/css
 	- JavaScript
@@ -12,4 +10,13 @@
 	- Java
 	- XML
 - Our team
-        -
+        - https://github.com/Godwin
+	- https://github.com/lunghile-suc
+	- https://github.com/MadingakaMokoena
+	- https://github.com/brianngobeni
+	- https://github.com/Reba
+	- https://github.com/Owen-Co
+	- https://github.com/Francissathekge
+	- https://github.com/KupaLetjedi
+	- https://github.com/Prince
+	- https://github.com/sinethembasifili
